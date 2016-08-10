@@ -1,0 +1,23 @@
+{
+  "name": "kimbulloch",
+  "version": "1.0.0",
+  "description": "I prefer not to comment at this moment",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottmbulloch/kimbulloch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottmbulloch/kimbulloch/issues"
+  },
+  "homepage": "https://github.com/scottmbulloch/kimbulloch#readme"
+}
